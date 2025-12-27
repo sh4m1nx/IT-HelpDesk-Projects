@@ -30,9 +30,12 @@ Resolve a user login issue by resetting the user’s domain password in **Active
 <img width="598" height="582" alt="User" src="https://github.com/user-attachments/assets/fb829396-33a3-44c9-a1b9-4f2ba814a141" />
 
 - Reset password dialog
+  
 <img width="448" height="326" alt="Reset_Dialog" src="https://github.com/user-attachments/assets/d006b22f-7974-4fca-afce-f9e484129c7c" />
 
-- Successful logon after password reset  
+
+- Successful logon after password reset
+  
 <img width="441" height="480" alt="Change_password" src="https://github.com/user-attachments/assets/25712452-aa84-46fe-b394-cdd669bfe31b" />
 
 <img width="669" height="711" alt="Successful_login" src="https://github.com/user-attachments/assets/7798691d-e0f0-44de-b01a-a4262680dbe4" />
@@ -43,8 +46,4 @@ Resolve a user login issue by resetting the user’s domain password in **Active
 - User was forced to choose a new password at next logon.
 - Issue would be marked **Resolved** in a ticketing system.
 
-## What I Learned
-
-- How to safely reset a user’s domain password in Active Directory.
-- The importance of **“User must change password at next logon”** for security.
 
